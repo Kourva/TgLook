@@ -116,7 +116,7 @@ async def incoming_message_handler(event: ClassVar[Any]) -> NoReturn:
                         f"{member.username},"
                         f"{member.phone},"
                         f"{member.access_hash},"
-                        f"{target_group.title}"
+                        f"{target_group.title},"
                         f"{target_group.id}\n"
                         ).encode("utf-8")
                     )
