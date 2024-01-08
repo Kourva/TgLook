@@ -86,6 +86,15 @@
     ```
     And that is, self bot will send you inforamtion when you use these commands.
 
+    > Note: Don't use @ in usernames, send it witout @.
+    > Here is list of examples
+    ```plaintext
+    $username johndoe  -> look for username 
+    $chats             -> show all groups
+    $get 0             -> get first groups members
+    $whois johndoe     -> get information abour user
+    ```
+
 <br>
 
 # ・┆ Proxy Chain 𓆝 𓆟 𓆞 𓆝
