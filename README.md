@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>¯\_(ツ)_/¯<br>ᯤ TgLook</h1>
-    <p><b>Simple Telegram self to scrape info about groups and users using Telethon</b></p>
+    <h1>TgL꩜꩜k<br>¯\_(ツ)_/¯</h1>
+    <p><b>Simple Telegram self bot to scrape information about groups and users using Telethon</b></p>
     <p>Check Userinfo | Check Username | Scrape member </p>
 </div>
 <br>
