@@ -5,7 +5,7 @@
 </div>
 <br>
 
-# Installation
+# ・┆ Installation
 1. **Installing requirement**<br>
      You need to install `python`, `pip` and `virtualenv` before using this bot. simply install them via your package manager<br>
    
@@ -34,6 +34,23 @@
     ```bash
     python main.py
     ```
+   
+# ・┆ Usage 
++ **Scrape group members**<br>
+    Send `$chats` to self bot and it will show you list of your groups which you are member of it.
+    ```plaintext
+    ×͜× Please choose group to get member from it:
 
-
+    ┆ Idx0: Group 1 
+    ┆ Idx1: Text group
+    ... and so on
+    
+    ⁀➴ Send $get [index] to get members.
+    E.G. $get 0
+    ```
+    Then send `$get` with index as argument to get list of members in the group.
+    ```csv
+    chat_id,first_name,last_name,username,phone,access_hash,group_title,group_id
+    123xxxx890,John,Doe,JohnDoe,+1xxxxxx,188420xxxxxxxx58432,Group 1,12xxxx7662
+    ```
     
