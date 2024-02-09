@@ -25,8 +25,8 @@ except FileNotFoundError:
 # initialize client
 client: ClassVar[Any] = TelegramClient(
     session="testApp", 
-    api_id=credits["api-ID"], 
-    api_hash=credits["api-Hash"]
+    api_id=credits["api_ID"], 
+    api_hash=credits["api_Hash"]
 )
 
 
