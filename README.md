@@ -11,7 +11,7 @@
    
 2. **Clone repository**
     ```bash
-    git clone https://github.com/Kourva/TgLook
+    git clone https://github.com/kozyol/TgLook
     ```
 3. **Navigate to script directory**
     ```bash
